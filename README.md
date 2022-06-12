@@ -13,7 +13,8 @@ Lorem Ipsum
 
 ## **Coding Languages:**
 (1) Python\
-(2) Pandas\
+\
+(2) Pandas
 
 ## **Observations:**
 Lorem Ipsum
